@@ -1,4 +1,5 @@
 import { Button } from "@workspace/ui/components/button"
+import { Authenticated, Unauthenticated } from "convex/react";
 
 export default function Page() {
   return (
